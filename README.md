@@ -19,4 +19,4 @@ React TypeScript template and for building interactive Chrome extension.
 4. Load extension to chrome browser
 5. Select ```dist``` folder after buildung
 
-Happy coding!
+## Happy coding!
