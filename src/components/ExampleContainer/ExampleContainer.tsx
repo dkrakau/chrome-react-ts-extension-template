@@ -9,7 +9,7 @@ const ExampleContainer = () => {
                 <div className="ExampleContainer-header-top">
                     <img src="logo.svg" className="ExampleContainer-logo" alt="logo" />
                     <p>
-                        Start <code>coding</code> Chrome Extentions to day.
+                        Start <code>coding</code> Chrome Extensions to day.
                     </p>
                     <a
                         className="ExampleContainer-link"
@@ -25,7 +25,7 @@ const ExampleContainer = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        Chrome Extentions Docs
+                        Chrome Extensions Docs
                     </a>
                 </div>
 
