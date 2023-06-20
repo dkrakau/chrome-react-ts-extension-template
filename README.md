@@ -24,8 +24,8 @@ npm intall
 4. Select ```Load unpacked```
 5. Choose ```dist``` folder after building
 
-## Version of Node.js and React
-React v18.2.0 and Node.js v18.16.0 was used for this template. To check with version of Node.js is installed on your system run command below in terminal.
+## Version of Node.js, React, Webpack
+[Node.js](https://nodejs.org/en) v18.16.0, [React](https://react.dev/) v18.2.0 and [Webpack](https://webpack.js.org/) v5.87.0 was used for this template. To check which version of Node.js is installed on your system, run command below in terminal.
 ````
 node --version
 ```
