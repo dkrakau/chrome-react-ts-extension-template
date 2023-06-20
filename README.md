@@ -1,6 +1,6 @@
 # chrome-react-ts-extension-template
 
-This is a template for building interactive chrome extension using React with Typescript is based on [Himanshu Batra's YouTube](https://www.youtube.com/watch?v=rAZXWkVhCgg&list=PLBS1L3Ug2VVods9GnWbJc__STt9VnrJ9Z&index=1) tutorial series.
+This is a template for building interactive chrome extension with React using TypeScript and is based on [Himanshu Batra's YouTube](https://www.youtube.com/watch?v=rAZXWkVhCgg&list=PLBS1L3Ug2VVods9GnWbJc__STt9VnrJ9Z&index=1) tutorial series.
 
 ## Installation
 
