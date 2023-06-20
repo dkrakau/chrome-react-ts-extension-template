@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    width: 800px;  /* max 800px */
+    height: 600px; /* max 600px */
+    background-color: #282c34;
+  }
+  
+  code {
+    font-family: 'Courier New', monospace;
+  }
+  
