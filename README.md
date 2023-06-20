@@ -24,9 +24,9 @@ npm intall
 4. Select ```Load unpacked```
 5. Choose ```dist``` folder after building
 
-## Version of Node.js, React, Webpack
+## Version of Node.js, React, Webpack, Chrome API
 
-[Node.js](https://nodejs.org/en) v18.16.0, [React](https://react.dev/) v18.2.0 and [Webpack](https://webpack.js.org/) v5.87.0 was used for this template. To check which version of Node.js is installed on your system, run command below in terminal.
+[Node.js](https://nodejs.org/en) v18.16.0, [React](https://react.dev/) v18.2.0, [Webpack](https://webpack.js.org/) v5.87.0 and [Chrome API](https://developer.chrome.com/docs/extensions/mv3/getstarted/) mv3 was used for this template. To check which version of Node.js is installed on your system, run command below in terminal.
 ```
 node --version
 ```
