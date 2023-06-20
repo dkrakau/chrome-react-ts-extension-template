@@ -13,8 +13,8 @@ npm intall
 
 ## Build chrome extension
 
-* For development run ```npm run dev```
-* For production run ```npm run build```
+* Use ```npm run dev``` for development
+* Use ```npm run build``` for production
 
 ## Load chrome extension
 
