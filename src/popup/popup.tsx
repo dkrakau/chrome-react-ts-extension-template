@@ -1,5 +1,5 @@
 import React from 'react';
-import ExampleContainer from '../components/ExampleContainer/ExampleContainer';
+import ExampleContainer from './components/ExampleContainer/ExampleContainer';
 
 const Popup = () => {
     return (
