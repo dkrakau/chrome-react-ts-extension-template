@@ -4,10 +4,10 @@ const HtmlPlugin = require('html-webpack-plugin');
 
 module.exports = {
     entry: {
-        popup: path.resolve('./src/index.tsx'),
+        popup: path.resolve('./src/popup/index.tsx'),
         options: path.resolve('./src/options/options.tsx'),
         background: path.resolve('./src/background/background.ts'),
-        contentScript: path.resolve('./src/contentScript/contentScript.ts'),
+        contentScript: path.resolve('./src/contentScript/index.tsx'),
     },
     module: {
         rules: [
@@ -35,7 +35,7 @@ module.exports = {
                     to: path.resolve('dist'),
                 },
                 {
-                    from: path.resolve('src/app_resources/'),
+                    from: path.resolve('src/app-resources/'),
                     to: path.resolve('dist'),
                 }
             ]
@@ -53,7 +53,9 @@ module.exports = {
     },
     optimization: {
         splitChunks: {
-            chunks: 'all',
+            chunks(chunk) {
+                return chunk.name !== 'contentScript'
+            }
         }
     },
 };
