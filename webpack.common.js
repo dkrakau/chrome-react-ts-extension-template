@@ -35,7 +35,7 @@ module.exports = {
                     to: path.resolve('dist'),
                 },
                 {
-                    from: path.resolve('src/resources/'),
+                    from: path.resolve('src/app_resources/'),
                     to: path.resolve('dist'),
                 }
             ]
