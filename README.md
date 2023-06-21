@@ -8,7 +8,7 @@ Clone this repository and install dependencies.
 ```
 git clone https://github.com/dkrakau/chrome-react-ts-extension-template.git
 cd chrome-react-ts-extension-template
-npm intall
+npm install
 ```
 
 ## Build chrome extension
