@@ -1,5 +1,5 @@
 {
-  "name": "chrome-react-ts-extention-template",
+  "name": "chrome-react-ts-extensions-template",
   "version": "1.0.0",
   "description": "The power of React and TypeScript for building interactive Chrome extensions.",
   "main": "popup.js",
