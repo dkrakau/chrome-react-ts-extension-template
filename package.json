@@ -4,8 +4,8 @@
   "description": "The power of React and TypeScript for building interactive Chrome extensions.",
   "main": "popup.js",
   "scripts": {
-    "build": "webpack --progress --config webpack.prod.js",
-    "watch": "webpack --watch --progress --config webpack.dev.js"
+    "dev": "webpack --watch --progress --config webpack.dev.js",
+    "build": "webpack --progress --config webpack.prod.js"
   },
   "author": "",
   "license": "MIT",
